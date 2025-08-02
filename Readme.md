@@ -2,7 +2,7 @@
 
 A simple command-line application to manage your to-do list.
 
-## Features
+# Features
 
 - Add, update, and delete tasks
 - Mark tasks as in-progress or done
@@ -12,7 +12,7 @@ A simple command-line application to manage your to-do list.
 - Colorful output in terminal
 - No external libraries used
 
-## How to Use
+# How to Use
 
 Add a Task
 python task_cli.py add "Study for exam"
@@ -37,3 +37,6 @@ python task_cli.py mark-done 2
 
 Export Tasks
 python task_cli.py export
+
+# Project URL
+https://github.com/HarshithaReastpoint/task-tracker-cli
